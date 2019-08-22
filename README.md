@@ -12,7 +12,7 @@
  6. 内置滤镜功能；                  
  7. 高清保存/分享；
  
- ![enter description here](./images/page-0_1.jpg)
+ ![enter description here](./images/page-0.jpg)
  ![enter description here](./images/page-1.jpg)![enter description here](./images/page-3.jpg)
  ![enter description here](./images/page-4.jpg)
  ![enter description here](./images/page-5.jpg)
