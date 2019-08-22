@@ -12,7 +12,7 @@
  6. 内置滤镜功能；                  
  7. 高清保存/分享；
  
- ![enter description here](./page-0.jpg)
+ ![让你的照片成为艺术品](./page-0.jpg)
  ![enter description here](./page-1.jpg)
  ![enter description here](./page-3.jpg)
  ![enter description here](./page-4.jpg)
