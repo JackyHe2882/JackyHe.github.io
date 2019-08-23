@@ -1,6 +1,6 @@
 欢迎来到画品app的技术支持服务网站！
 
- ![扫描加微信](./images/paintingstyle.png)
+ ![画品](./images/paintingstyle.png)
 
 **邮箱：258255419@qq.com 
 微信：hewei_0811**
