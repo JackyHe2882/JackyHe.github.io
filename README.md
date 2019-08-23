@@ -1,4 +1,4 @@
-欢迎来到画品app的技术支持服务网站！
+### **欢迎来到画品app的技术支持服务网站！**
  ![画品](./images/paintingstyle.png)
  # **画品**
 “画品”是一款为美术作品而专业打造的画框APP。所谓“三分画，七分裱”，好的画框本身就是一件艺术品，能为美术作品增色不少。严格来说，画与画框及展览场景与背景是一个整体的呈现，缺一不可。
@@ -16,7 +16,7 @@
  7. 高清保存/分享；
  
  **邮箱：258255419@qq.com 微信：hewei_0811**
- ![扫描加微信](./images/weichat_qr.jpg)
+ ![扫描加微信](./images/weichat_qr.png)
  
  ![让你的照片成为艺术品](./images/page-0.jpg)
  ![enter description here](./images/page-1.jpg)
