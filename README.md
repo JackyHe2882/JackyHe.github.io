@@ -2,7 +2,7 @@
 
 **邮箱：258255419@qq.com 
 微信：hewei_0811**
- ![扫描加微信](./Weichat_qr.jpeg)
+ ![扫描加微信](./images/weichat_qr.jpg)
 
 # **画品**
 “画品”是一款为美术作品而专业打造的画框APP。所谓“三分画，七分裱”，好的画框本身就是一件艺术品，能为美术作品增色不少。严格来说，画与画框及展览场景与背景是一个整体的呈现，缺一不可。
@@ -17,12 +17,12 @@
  6. 内置滤镜功能；                  
  7. 高清保存/分享；
  
- ![让你的照片成为艺术品](./page-0.jpg)
- ![enter description here](./page-1.jpg)
- ![enter description here](./page-2.jpg)
- ![enter description here](./page-3.jpg)
- ![enter description here](./page-4.jpg)
- ![enter description here](./page-5.jpg)
- ![enter description here](./page-6.jpg)
- ![enter description here](./page-7.jpg)
- ![enter description here](./page-8.jpg)
+ ![让你的照片成为艺术品](./images/page-0.jpg)
+ ![enter description here](./images/page-1.jpg)
+ ![enter description here](./images/page-2.jpg)
+ ![enter description here](./images/page-3.jpg)
+ ![enter description here](./images/page-4.jpg)
+ ![enter description here](./images/page-5.jpg)
+ ![enter description here](./images/page-6.jpg)
+ ![enter description here](./images/page-7.jpg)
+ ![enter description here](./images/page-8.jpg)
