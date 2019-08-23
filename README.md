@@ -14,6 +14,7 @@
  
  ![让你的照片成为艺术品](./page-0.jpg)
  ![enter description here](./page-1.jpg)
+ ![enter description here](./page-2.jpg)
  ![enter description here](./page-3.jpg)
  ![enter description here](./page-4.jpg)
  ![enter description here](./page-5.jpg)
